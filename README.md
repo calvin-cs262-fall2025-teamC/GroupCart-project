@@ -9,3 +9,7 @@ Team members:
 * Nick Roberts
 * Aisha Abdullahi
 * Faith Liz Nsengiyumva
+
+Check out our implementation:
+* [Client](https://github.com/calvin-cs262-fall2025-teamC/GroupCart-client/)
+* [Service](https://github.com/calvin-cs262-fall2025-teamC/GroupCart-service)
