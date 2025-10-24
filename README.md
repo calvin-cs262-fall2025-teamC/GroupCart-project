@@ -10,6 +10,11 @@ Team members:
 * Aisha Abdullahi
 * Faith Liz Nsengiyumva
 
+Prototyping:
+* [Domain model](images/domain-model.png)
+* [UI mockup](images/ui-mockup.jpg)
+* [Use case diagram](images/use-case-diagram.jpg)
+
 Check out our implementation:
 * [Client](https://github.com/calvin-cs262-fall2025-teamC/GroupCart-client/)
 * [Service](https://github.com/calvin-cs262-fall2025-teamC/GroupCart-service)
