@@ -15,6 +15,9 @@ Prototyping:
 * [UI mockup](images/ui-mockup.jpg)
 * [Use case diagram](images/use-case-diagram.jpg)
 
+Presentations:
+* [GroupCart presentation](GroupCart%20presentation.pptx)
+
 Check out our implementation:
 * [Client](https://github.com/calvin-cs262-fall2025-teamC/GroupCart-client/)
 * [Service](https://github.com/calvin-cs262-fall2025-teamC/GroupCart-service)
