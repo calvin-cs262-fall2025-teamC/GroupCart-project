@@ -4,6 +4,7 @@ The vision of this project is to create a collaborative grocery checklist app de
 While several grocery list apps already exist, such as MyGroceries, our app differentiates itself through its focus on shared budgeting and accountability. The price tracking amongst people using the app, combined with a simple and collaborative design, makes it especially useful for groups with limited budgets like college roommates and  Calvin students living together. This unique emphasis on both organization and financial transparency sets our app apart from competitors.
 
 Team members:
+
 * Adam Byle
 * Guli Costa
 * Nick Roberts
@@ -11,13 +12,16 @@ Team members:
 * Faith Liz Nsengiyumva
 
 Prototyping:
-* [Domain model](images/domain-model.png)
-* [UI mockup](images/ui-mockup.jpg)
+
+* [Domain model](images/Domain-Model.jpg)
+* [UI mockup](images/UI-model.jpg)
 * [Use case diagram](images/use-case-diagram.jpg)
 
 Presentations:
+
 * [GroupCart presentation](Group-Cart-Presentation.pptx)
 
 Check out our implementation:
+
 * [Client](https://github.com/calvin-cs262-fall2025-teamC/GroupCart-client/)
 * [Service](https://github.com/calvin-cs262-fall2025-teamC/GroupCart-service)
