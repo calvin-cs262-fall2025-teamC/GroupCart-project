@@ -16,7 +16,7 @@ Prototyping:
 * [Use case diagram](images/use-case-diagram.jpg)
 
 Presentations:
-* [GroupCart presentation](GroupCart%20presentation.pptx)
+* [GroupCart presentation](Group-Cart-Presentation.pptx)
 
 Check out our implementation:
 * [Client](https://github.com/calvin-cs262-fall2025-teamC/GroupCart-client/)
