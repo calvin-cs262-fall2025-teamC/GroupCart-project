@@ -17,9 +17,13 @@ Team members:
 * [UI mockup](images/UI-model.jpg)
 * [Use case diagram](images/use-case-diagram.jpg)
 
-Presentations:
+## Presentations
 
 * [GroupCart presentation](Group-Cart-Presentation.pptx)
+
+## User Testing
+* [Test Script] nothing here
+* [Test Report] nothing here
 
 Check out our implementation:
 
