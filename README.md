@@ -11,7 +11,7 @@ Team members:
 * Aisha Abdullahi
 * Faith Liz Nsengiyumva
 
-#Models
+## Models
 
 * [Domain model](images/Domain-Model.jpg)
 * [UI mockup](images/UI-model.jpg)
