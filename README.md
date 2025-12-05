@@ -25,7 +25,7 @@ Team members:
 * [Test Script] nothing here
 * [Test Report] nothing here
 
-Check out our implementation:
+## Client and Service
 
 * [Client](https://github.com/calvin-cs262-fall2025-teamC/GroupCart-client/)
 * [Service](https://github.com/calvin-cs262-fall2025-teamC/GroupCart-service)
