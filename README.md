@@ -22,8 +22,9 @@ Team members:
 * [GroupCart presentation](Group-Cart-Presentation.pptx)
 
 ## User Testing
-* [Test Script] nothing here
-* [Test Report] nothing here
+
+* [Test Script](files/UserTest_Script.pdf)
+* [Test Report](files/UserTest_Report.pdf)
 
 ## Client and Service
 
