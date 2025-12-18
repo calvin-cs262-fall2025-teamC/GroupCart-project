@@ -16,6 +16,7 @@ Team members:
 * [Domain model](images/Domain-Model.jpg)
 * [UI mockup](images/UI-model.jpg)
 * [Use case diagram](images/use-case-diagram.jpg)
+* [Deployment Diagram](images/Deployment%20Diagram%20Group%20Cart.jpg)
 
 ## Presentations
 
