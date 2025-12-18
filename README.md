@@ -19,7 +19,7 @@ Team members:
 
 ## Presentations
 
-* [GroupCart presentation](Group-Cart-Presentation.pptx)
+* [GroupCart presentation](files/Group-Cart-Presentation.pptx)
 
 ## User Testing
 
